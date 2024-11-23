@@ -3,6 +3,14 @@ SETTING_NAME = "theis_character-reach-indicator_"
 data:extend(
 {
   {
+    type = "bool-setting",
+    name = SETTING_NAME.."start-on",
+    setting_type = "runtime-per-user",
+    default_value = true,
+    allow_blank = false,
+    order = "q0",
+  },
+  {
     type = "color-setting",
     name = SETTING_NAME.."interaction-circle-color",
     setting_type = "runtime-per-user",

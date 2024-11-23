@@ -1,7 +1,10 @@
 ---------------------------------------------------------------------------------------------------
-Version: 1.0.1
-Date: ????
+Version: 2.0.0
+Date: 2024-11-23
   Changes:
+    - Updated Factorio version to 2.0
+    - Removed unnessary comments in code
+    - Added Start enabled setting, for starting with the reach circles visible
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2024-08-02
